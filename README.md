@@ -1,1 +1,1 @@
-# Outros
+Produto Vetorial -TI-84
