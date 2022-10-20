@@ -1,1 +1,2 @@
-Produto Vetorial -TI-84
+Produto Vetorial.8xp - TI 84
+Interpolacao.8xp - TI 84
